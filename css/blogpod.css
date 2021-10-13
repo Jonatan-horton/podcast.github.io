@@ -228,6 +228,13 @@ section{
 
 }
 
+.rpembed {
+  height: 200;
+  width: 80%;
+  border: none;
+  overflow: hidden;
+}
+
 
 /*footer*/
 
